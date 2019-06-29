@@ -1,0 +1,20 @@
+
+.search-test {
+    margin-top: 20px;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    color: black;
+    margin-left: 100px;
+  
+  }
+  
+  .form-page{
+    background-image: url("../../assets/img/01.jpg"); 
+    background-size: cover;
+    background-position: center;
+  }
+  
+  .form-input{
+    margin-bottom: 900px;
+  }
